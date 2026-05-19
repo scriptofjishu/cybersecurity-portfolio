@@ -18,7 +18,7 @@ A Python tool that analyzes security logs to detect suspicious activities such a
 ### Technologies Used
 - Python
 - Regular Expressions (`re` module)
-- File Handling
+- File Handling (I/O)
 
 ### What I Learned
 - Real-world log parsing techniques
